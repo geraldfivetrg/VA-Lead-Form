@@ -66,6 +66,7 @@ path:hover {
 #first-page h2 {
     text-align: center;
     color: white;
-    font-size: 14px;
+    font-size: 0.75em;
+    font-family: "Poppins";
 }
 
