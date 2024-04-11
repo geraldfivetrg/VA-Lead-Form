@@ -46,21 +46,26 @@ path:hover {
 
 .tally-embed {
     width: 100%;
-    height: 650px; /* Default height for mobile */
-    max-height: 650px; /* Maximum height for mobile */
+    height: 700px; /* Default height for mobile */
+    max-height: 700px; /* Maximum height for mobile */
 }
 
   @media (min-width: 768px) {
     /* For tablets and desktops */
     .tally-embed {
-      height: 522px; /* Adjusted height for tablets and desktops */
-      max-height: 5220px; /* Maximum height for tablets and desktops */
+      display: block;
+      position: relative;  
+      height: 700px; /* Adjusted height for tablets and desktops */
+      max-height: 700px; /* Maximum height for tablets and desktops */
+      width: 75%;
+      margin-left: auto;
+      margin-right: auto;
     }
-}
+  }
 
 #first-page h2 {
     text-align: center;
     color: white;
-    font-size: 0.75em;
+    font-size: 14px;
 }
 
