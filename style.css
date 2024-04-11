@@ -57,3 +57,8 @@ path:hover {
       max-height: 5220px; /* Maximum height for tablets and desktops */
     }
   }
+
+#first-page h2 {
+    text-align: center;
+    color: white;
+  }
