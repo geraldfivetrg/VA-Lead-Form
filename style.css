@@ -60,6 +60,9 @@ path:hover {
       width: 75%;
       margin-left: auto;
       margin-right: auto;
+
+   #first-page label {
+       font-size: 1em;
     }
   }
 
