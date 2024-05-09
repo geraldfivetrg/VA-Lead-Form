@@ -1,6 +1,6 @@
 path {
     stroke: white;
-    fill: #80a052 !important;
+    fill: #60694F !important;
 
     transition: fill .4s ease;
     transform-origin: center center;
@@ -52,7 +52,8 @@ path:hover {
 
    #first-page label {
        font-size: 1em;
-       color: white;
+       color: black;
+       font-family: "Poppins";
     }
 
 
@@ -81,8 +82,9 @@ path:hover {
 
 #first-page label {
     text-align: center;
-    color: white;
+    color: black;
     font-size: 1.25em;
+    font-family: "Poppins"; 
     }
   }
 
